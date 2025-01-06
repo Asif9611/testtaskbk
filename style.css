@@ -1,0 +1,106 @@
+@font-face {
+  font-family: Flamebold;
+  src: url(fonnts.com-FlameBold.otf);
+}
+
+* {
+  font-family: Flamebold;
+  /* background-color:#F8F1E7 ; */
+}
+
+
+h1 {
+  color: #a71b00;
+}
+
+h2 {
+  color: #a71b00;
+}
+
+h3 {
+  color: #a71b00;
+}
+
+h4 {
+  color: #a71b00;
+}
+h5 {
+  color: #a71b00;
+}
+
+h6 {
+  color: #a71b00;
+}
+
+
+.para{
+    color: #502314;
+
+}
+
+.bottom-paragraph{
+    padding-bottom: -10px;
+}
+
+.colornav {
+  background-color: #f8f1e7;
+}
+
+.nav-tog-color {
+  background-color: #a71b00;
+}
+
+
+.alignment{
+    margin-left: 80px;
+    margin-right: 80px;}
+
+.opbtn {
+  background-color: #a71b00;
+  border-radius: 25px;
+  border: 1px solid #a71b00;
+  color: #ffff;
+  padding: 15px 96px 15px 96px;
+}
+
+.pcolor{
+    color: #502314;
+}
+.navbtn-1{  background-color: #A71B00;
+  border-radius: 25px;
+  border: 1px solid #a71b00;
+  color: #ffff;
+  padding: 10px 40px 10px 40px;}
+
+.odbtn {
+  background-color: #f8f1e7;
+  border-radius: 25px;
+  border: 1px solid #a71b00;
+  color: #502314;
+  padding: 15px 90px 15px 90px;
+}
+
+.onbtn-1 {
+  background-color: #f8f1e7;
+  border-radius: 25px;
+  border: 1px solid #a71b00;
+  color: #502314;
+  padding: 10px 40px 10px 40px;
+  margin-left: 380px;
+}
+.font-1 {
+  font-family: Flamebold;
+  font-size: 60px;
+  font-weight: 400px;
+  line-height: 68px;
+  color: #502314;
+}
+
+.bg-btm{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ffff !important;
+    background-color: #502314;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
